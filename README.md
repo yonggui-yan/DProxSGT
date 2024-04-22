@@ -12,4 +12,4 @@ In each directory, executing the file run.sh will yield the results
 
 ## Reference  
 
-- <a name="DProxSGT"></a>Yonggui Yan, Jie Chen, Pin-Yu Chen, Xiaodong Cui, Songtao Lu, and Yangyang Xu. [Compressed Decentralized Proximal Stochastic Gradient Method for Nonconvex Composite Problems with Heterogeneous Data](https://proceedings.mlr.press/v202/yan23a/yan23a.pdf). Preprint arXiv:2302.14252, 2023.
+- <a name="DProxSGT"></a>Yonggui Yan, Jie Chen, Pin-Yu Chen, Xiaodong Cui, Songtao Lu, and Yangyang Xu. [Compressed Decentralized Proximal Stochastic Gradient Method for Nonconvex Composite Problems with Heterogeneous Data](https://proceedings.mlr.press/v202/yan23a/yan23a.pdf). In International Conference on Machine Learning, pp. 39035-39061. PMLR, 2023.
