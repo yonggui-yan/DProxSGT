@@ -8,7 +8,7 @@ This repository is the implementations of the paper: Compressed Decentralized Pr
 - Compress_FMNIST: code for training a neural network model (LeNet5) on Fashion-MNIST using compressed methods
 - Compress_CIFAR10:  code for training a neural network model (FixupResnet20) on CIFAR10 using compressed methods
 
-In each directory, executing the file run.sh will yield the results
+Running the file run.sh in each directory will produce the results. The figures in the figures file are generated based on these results.
 
 ## Reference  
 
